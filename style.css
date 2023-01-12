@@ -1,0 +1,38 @@
+/* body{ */
+    /* background-color: #cf2623; */
+/* } */
+/* *{
+    background-color: #38d6d3;
+    font-size: 25px;
+} */
+
+/* heading selctor */
+.one{
+    color: rgb(13, 255, 0);
+    font-size: 20px;
+}
+/* p{
+    color: #d63884;
+} */
+
+/* id selector (should be selected 1 times */
+#two{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 255, 255);
+}
+
+/* Group selector */
+#two, ol{
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/*  */
+
+.border{
+    border: 7px solid red;
+    font-size: 25px;
+    margin: 100px;
+    padding: 100px;
+}
